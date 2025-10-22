@@ -16,9 +16,9 @@ const App = () => {
       </div>
       <HotDessert />
       <Banner />
-      {/* <PopularRecipe /> */}
-      {/* <Testimonial /> */}
-      {/* <Footer /> */}
+      <PopularRecipe />
+      <Testimonial />
+      <Footer />
     </div>
   );
 };
